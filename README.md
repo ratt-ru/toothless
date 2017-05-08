@@ -1,3 +1,3 @@
 # toothless
-![Logo](http://francky.me/images/quora001.png)
+![Logo](https://i.ytimg.com/vi/rQpoP22YgBc/maxresdefault.jpg)
 Morphological classification of radio galaxies using machine learning techniques
