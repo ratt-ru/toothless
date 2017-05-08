@@ -1,19 +1,16 @@
 <h1 align="center"> Toothless</h1>
 
 <p align="center">
+  <img src="images/toothless.jpg"> <br> [Image Credits:]
 
-<p align="center">
-  <img src="images/toothless.jpg">
 </p>  
 
-## _**Morphological classification of radio galaxies using Deep Convolutional Neural Network**_
 
+<h2 align="centre"> <b>Morphological classification of radio galaxies using Deep Convolutional Neural Network</b> </h2>
 
-**Arun Aniyan & Kshitij Thorat**
+<p align="center"> <b> Arun Aniyan and Kshitij Thorat <br> SKA South Africa & Rhodes University <br> arun@ska.ac.za </b>
 
-**SKA South Africa and Rhodes University**
-
-**arun@ska.ac.za**
+</p>
 
 
 
@@ -31,5 +28,3 @@ Before you run the code the following software requirements need to met :
 - [Astropy](http://www.astropy.org/)
 - [Photoutils](https://photutils.readthedocs.io/en/stable/)
 - [Scikit-image](http://scikit-image.org/)
-
-
