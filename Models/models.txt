@@ -1,0 +1,5 @@
+Download the models from the following link and place them in this directory
+
+- https://drive.google.com/open?id=0B1qOiNTPcMj9RTE0ckFSTHZ4MnM
+- https://drive.google.com/open?id=0B1qOiNTPcMj9S2owZ3pyODNaU1k
+- https://drive.google.com/open?id=0B1qOiNTPcMj9ZU81Wlo3MFhzNVE
