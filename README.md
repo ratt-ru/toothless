@@ -1,12 +1,12 @@
 <h1 align="center"> Toothless</h1>
 
 <p align="center">
-  <img src="images/toothless.jpg"> <br> [Image Credits:]
+  <img src="images/toothless.jpg"> <br> [Image Credits:Youtube]
 
 </p>  
 
 
-<h2 align="centre"> <b>Morphological classification of radio galaxies using Deep Convolutional Neural Network</b> </h2>
+<h2 align="centre"> <b>Classifying Radio Galaxies with Convolutional Neural Network</b> </h2>
 
 <p align="center"> <b> Arun Aniyan and Kshitij Thorat <br> SKA South Africa & Rhodes University <br> arun@ska.ac.za </b>
 
