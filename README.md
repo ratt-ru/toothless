@@ -1,5 +1,10 @@
-# Toothless
-![Logo](images/toothless.jpg)Image Credits: i.ytimg.com
+<h1 align="center"> Toothless</h1>
+
+<p align="center">
+
+<p align="center">
+  <img src="images/toothless.jpg">
+</p>  
 
 ## _**Morphological classification of radio galaxies using Deep Convolutional Neural Network**_
 
