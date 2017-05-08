@@ -36,7 +36,12 @@ The repository contains the following folders required for executing the code
 
 The sample image folder contains few example images in fits format. The code also accepts preprocessed images in png or jpg format. 
 
-Please download the models from this link
+Please download the models from these links :
+- [FRI vs FRII](https://drive.google.com/open?id=0B1qOiNTPcMj9RTE0ckFSTHZ4MnM)
+- [FRI vs Bent-Tail](https://drive.google.com/open?id=0B1qOiNTPcMj9S2owZ3pyODNaU1k)
+- [FRII vs Bent-Tail](https://drive.google.com/open?id=0B1qOiNTPcMj9ZU81Wlo3MFhzNVE)
+
+The downloaded model files have to be copied to the Model directory. 
 
 Once all software requirements are met the code can be run as follows with a sample image as 
 
