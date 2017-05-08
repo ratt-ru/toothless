@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="images/toothless.jpg"> <br> [Image Credits:Youtube]
-
 </p>  
 
 
@@ -11,8 +10,6 @@
 <p align="center"> <b> Arun Aniyan and Kshitij Thorat <br> SKA South Africa & Rhodes University <br> arun@ska.ac.za </b>
 
 </p>
-
-
 
 
 This is repository contains the Code and Model to do the morphological classification of radio galaxies with deep convolutional neural network. 
@@ -28,3 +25,10 @@ Before you run the code the following software requirements need to met :
 - [Astropy](http://www.astropy.org/)
 - [Photoutils](https://photutils.readthedocs.io/en/stable/)
 - [Scikit-image](http://scikit-image.org/)
+
+
+The repository contains the following folders required for executing the code
+- Models - Contains the trained caffe models
+- Prototxt - Contains the network structure for deployment
+- Labels - Contains the labels 
+- Sample-Images - Contains image to test the model
