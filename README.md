@@ -26,9 +26,20 @@ Before you run the code the following software requirements need to met :
 - [Photoutils](https://photutils.readthedocs.io/en/stable/)
 - [Scikit-image](http://scikit-image.org/)
 
-
+ 
 The repository contains the following folders required for executing the code
 - Models - Contains the trained caffe models
 - Prototxt - Contains the network structure for deployment
 - Labels - Contains the labels 
 - Sample-Images - Contains image to test the model
+
+
+The sample image folder contains few example images in fits format. The code also accepts preprocessed images in png or jpg format. 
+
+Please download the models from this link
+
+Once all software requirements are met the code can be run as follows with a sample image as 
+
+`$ python Codes/fusion-classify.py Sample-Images/3C194.fits`
+
+The code will output the prediction with its probability and will show the total time for execution.
