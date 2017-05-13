@@ -7,7 +7,7 @@
 </p>  
 
 
-<h2 align="centre"> Classifying Radio Galaxies with Convolutional Neural Network </h2>
+<h2 align="center"> Classifying Radio Galaxies with Convolutional Neural Network </h2>
 
 <p align="center"> <b> Arun Aniyan and Kshitij Thorat <br> SKA South Africa & Rhodes University <br> arun@ska.ac.za </b> 
 
