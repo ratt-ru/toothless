@@ -1,4 +1,5 @@
 <h1 align="center"> Toothless</h1>
+<p align="centre"> <img src="https://zenodo.org/badge/90636806.svg"> </p>
 
 <p align="center">
   <img src="images/toothless.jpg"> <br> [Image Credits:Youtube]
@@ -7,8 +8,7 @@
 
 <h2 align="centre"> Classifying Radio Galaxies with Convolutional Neural Network </h2>
 
-<p align="center"> <b> Arun Aniyan and Kshitij Thorat <br> SKA South Africa & Rhodes University <br> arun@ska.ac.za </b> <br>
-<img src="https://zenodo.org/badge/90636806.svg">
+<p align="center"> <b> Arun Aniyan and Kshitij Thorat <br> SKA South Africa & Rhodes University <br> arun@ska.ac.za </b> 
 
 </p>
 
