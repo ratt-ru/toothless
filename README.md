@@ -1,7 +1,8 @@
 <h1 align="center"> Toothless</h1>
-<p align="centre"> <img src="https://zenodo.org/badge/90636806.svg"> </p>
+
 
 <p align="center">
+  <img src="https://zenodo.org/badge/90636806.svg"><br>
   <img src="images/toothless.jpg"> <br> [Image Credits:Youtube]
 </p>  
 
