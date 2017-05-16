@@ -16,6 +16,10 @@
 
 This is repository contains the Code and Model to do the morphological classification of radio galaxies with deep convolutional neural network. 
 
+If you make use of the code and models, please cite it as 
+
+`Arun Aniyan, & Kshitij Thorat. (2017). ratt-ru/toothless: First release of toothless [Data set]. Astrophysical Journal Supplement Series. Zenodo. http://doi.org/10.5281/zenodo.579637`
+
 The model is implemented with the popular deep learning package [Caffe](http://caffe.berkeleyvision.org/). 
 
 
